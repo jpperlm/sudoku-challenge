@@ -1,4 +1,12 @@
-# Sudoku
+# Sudoku Solver
+### *Coded By: Jason Perlman*
+* [Jason Perlman](https://github.com/jpperlm)
+
+### Description
+*Solves sudoku recursively using ruby*
+
+
+# Sudoku Assignment
 
 ## Summary
 ![solving sequence animation](readme-assets/sequence.gif)  
